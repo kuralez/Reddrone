@@ -65,7 +65,9 @@ The list of attack scenarios below is organized by attack stages. Note that some
 
 ## 👤 Author
 
-**Kuralamudhan** – Information Security Analyst (Beginner)  
+**Kuralamudhan**   
+Passionate about drone security, ethical hacking, and VAPT.
+**Vigneshwaran**  
 Passionate about drone security, ethical hacking, and VAPT.
 
 ## 📄 License
