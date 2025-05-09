@@ -46,7 +46,7 @@ The list of attack scenarios below is organized by attack stages. Note that some
 - ESP8266 (Wi-Fi module)
 - ApkTool / JADX for APK reverse engineering
 
-##🧭 Architecture Diagram
+## 🧭 Architecture Diagram
 
 ![CYS 10 Poster](https://github.com/user-attachments/assets/6b696e08-50d6-4a93-ac8c-2f78b5880bfb)
 
